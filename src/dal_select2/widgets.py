@@ -21,6 +21,7 @@ class Select2WidgetMixin(object):
             'all': (
                 'autocomplete_light/vendor/select2/dist/css/select2.css',
                 'autocomplete_light/select2.css',
+                'autocomplete_light/select2-foundation.min.css',
             )
         }
         js = (
